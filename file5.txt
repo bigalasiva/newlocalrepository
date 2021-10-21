@@ -1,0 +1,2 @@
+new file5 created to demo on merging 
+ merge conflict demo on file5
