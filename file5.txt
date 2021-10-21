@@ -1,1 +1,2 @@
 overriding the file5 line to demonstarte mergeconflicts
+newline2 adding in file5
