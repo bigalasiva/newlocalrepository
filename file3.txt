@@ -1,1 +1,2 @@
 newfile created
+ adding newline to this file3 to demonstarte bugfix 
